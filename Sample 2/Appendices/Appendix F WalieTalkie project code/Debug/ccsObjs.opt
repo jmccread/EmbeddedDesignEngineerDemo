@@ -1,0 +1,1 @@
+"./ISR.obj" "./config.obj" "./main.obj" "./drivers_MSP/fletcher16.obj" "./drivers_MSP/rbuffer.obj" "./drivers_MSP/timer_a.obj" "./drivers_MSP/uart_baudrate.obj" "./drivers_MSP/usci_a_spi.obj" "./drivers_MSP/usci_a_uart.obj" "./drivers_MSP/usci_b_i2c.obj" "./drivers_MSP/wdt_a.obj" "../lnk_msp430f2618.cmd" -l"libc.a" 
